@@ -1,0 +1,17 @@
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.deps.json
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.EF.pdb
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\refint\RepositoryPatternWithUOW.EF.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.pdb
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\ref\RepositoryPatternWithUOW.EF.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.pdb
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net6.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete

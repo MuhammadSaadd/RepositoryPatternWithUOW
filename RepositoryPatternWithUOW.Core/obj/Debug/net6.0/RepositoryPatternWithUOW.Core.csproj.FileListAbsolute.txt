@@ -1,0 +1,12 @@
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.deps.json
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\bin\Debug\net6.0\RepositoryPatternWithUOW.Core.pdb
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.AssemblyInfo.cs
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\refint\RepositoryPatternWithUOW.Core.dll
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\RepositoryPatternWithUOW.Core.pdb
+D:\Web Development in .Net 6 MVC\Repository Pattern\RepositoryPatternWithUOW\RepositoryPatternWithUOW.Core\obj\Debug\net6.0\ref\RepositoryPatternWithUOW.Core.dll
